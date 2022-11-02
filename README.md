@@ -1,5 +1,5 @@
-# ![shopping-mall](https://user-images.githubusercontent.com/86398490/175334024-c0de4fbf-7575-4faf-9b00-0c888035f329.png) Health Together
-### 헬스 투게더는 사용자에게 건강증진에 도움을 줄 수 있는 정보 및 서비스를 제공해주고자 만든 프로젝트입니다.
+# ![fitness](https://user-images.githubusercontent.com/86398490/199506074-7235a058-8354-4290-9dac-7c18232ab70e.png) Health Together
+###헬스 투게더는 사용자에게 건강증진에 도움을 줄 수 있는 정보 및 서비스를 제공해주고자 만든 프로젝트입니다.
  </br>
 
 🗓️ 작업기간 : 2022. 03. 02 ~ 2022. 10. 28
@@ -12,13 +12,9 @@
 ![CSSS](https://camo.githubusercontent.com/852a0305ff0c2a6b5d10932eef2cfbfb59be3e99ce69002473077b5045344e89/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d2532333135373242362e7376673f7374796c653d666c61742d737175617265266c6f676f3d63737333266c6f676f436f6c6f723d7768697465)
 ![javascript](https://camo.githubusercontent.com/9ee5409ea3b88163eeaa617ba53eff2c7610c55618c99dd4bd00bec40e6aee48/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d2532333332333333302e7376673f7374796c653d666c61742d737175617265266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
 ![react](https://user-images.githubusercontent.com/86398490/175335805-806783e4-770d-447d-b493-9eb8db4ac7a7.png)
-![redux](https://user-images.githubusercontent.com/86398490/199504223-1adf7e7d-5386-4638-97d3-099ce031270b.png)
-![Firebase](https://user-images.githubusercontent.com/86398490/199504478-1499c2fb-11c3-45cc-a41f-72a9b9f13e11.png)
+redux
+Firebase
 ![Git](https://camo.githubusercontent.com/b38b8897560b3731eafccf44bf41f9450b71ec972a7759e0d104402403b51b13/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d2532334630353033332e7376673f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
-
-[쇼핑몰 메인 웹 페이지로 이동](https://charming-pavlova-1f276d.netlify.app/)
-
-[![Shopping-mall-web-site](https://user-images.githubusercontent.com/86398490/175331230-4426bbc8-4bdd-4b9e-a39d-270543ad93ad.JPG)](https://charming-pavlova-1f276d.netlify.app/)
 
 ---
 
