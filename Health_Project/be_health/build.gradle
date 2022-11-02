@@ -1,0 +1,37 @@
+plugins {
+	id 'org.springframework.boot' version '2.7.0'
+	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+	id 'java'
+}
+
+group = 'com.project'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '11'	// 자바 버전
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	}
+} // 그래들 어노테이션 프로세서 구성
+
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa' // Spring Data JPA
+	implementation 'org.springframework.boot:spring-boot-starter-thymeleaf' // Thymelaf
+	implementation 'org.springframework.boot:spring-boot-starter-web' // Spring Web
+	compileOnly 'org.projectlombok:lombok' // Lombok
+	runtimeOnly 'com.h2database:h2' // H2 Database
+//	runtimeOnly 'org.mariadb.jdbc:mariadb-java-client' // MariaDB Driver
+	implementation 'org.springframework.boot:spring-boot-starter-security'
+//	implementation 'org.springframework.boot:spring-boot-starter-validation'
+	annotationProcessor 'org.projectlombok:lombok' // 기본
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'	//기본
+}
+
+tasks.named('test') {
+	useJUnitPlatform()
+}
