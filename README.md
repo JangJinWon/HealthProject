@@ -1,5 +1,5 @@
 # ![shopping-mall](https://user-images.githubusercontent.com/86398490/175334024-c0de4fbf-7575-4faf-9b00-0c888035f329.png) Health Together
-### Health Together는 사용자에게 건강증진에 도움을 줄 수 있는 정보 및 서비스를 제공해주고자 만들어진 프로젝트입니다.
+### 헬스 투게더는 사용자에게 건강증진에 도움을 줄 수 있는 정보 및 서비스를 제공해주고자 만들어진 프로젝트입니다.
  </br>
 
 🗓️ 작업기간 : 2022. 03. 02 ~ 2022. 10. 28
