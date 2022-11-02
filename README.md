@@ -42,7 +42,7 @@
 
 ### 03.헬스장 위치 검색
 ![image](https://user-images.githubusercontent.com/86398490/199510993-efb7fd61-5dfb-4e20-a21e-d32fcc6ccf40.png)
-- React와 카카오 지도 API를 연동하여 사용자가 직접 검색을 통해 검색 내용과 일치하는 장소를 지도상에 마커표시로 볼 수 있습니다. 
+- `React`와 카카오 지도 `API`를 연동하여 사용자가 직접 검색을 통해 검색 내용과 일치하는 장소를 지도상에 마커표시로 볼 수 있습니다. 
 - 검색 내용의 관련 주소 정보들을 리스트 형식으로 보여줍니다.
 - 작업 내용: https://velog.io/@wlsdnjs156/React-%EC%B9%B4%EC%B9%B4%EC%98%A4-%EC%A7%80%EB%8F%84kakao-Map-API-%EC%A0%81%EC%9A%A9
 
@@ -78,6 +78,7 @@
 ---
 
 ### 06.게시판
+
 >
 - 게시물 작성
 ![image](https://user-images.githubusercontent.com/86398490/199513044-8f16c0d8-c88c-4dd8-a6c7-6d61950f08cd.png)
