@@ -95,7 +95,7 @@
 - 게시물을 클릭하면 상세보기 화면으로 넘어가며 상세보기 화면에서 해당 게시물을 삭제 할 수 있도록 구현 하였습니다.
 
 >
-- Firebase DB 
+- Firebase DB
 ![image](https://user-images.githubusercontent.com/86398490/199513105-b097e67d-fedc-4deb-8f48-7c869ec23f71.png)
 - `React`와 `Firebase`를 연동하여 게시물 생성과 삭제 시 `Firebase`에서 `DB`테이블이 추가 및 삭제 되도록 구현 하였습니다.
 
